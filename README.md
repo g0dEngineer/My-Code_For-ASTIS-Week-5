@@ -1,6 +1,6 @@
-Universal Artificial Intelligence Diploma, lectured by God Bennett
+# Universal Artificial Intelligence Diploma, lectured by God Bennett
 
-Week5-Generative Adversarial Neural Network-Submission-Sample
+# Week5-Generative Adversarial Neural Network-Submission-Sample
 
 
 NFT using generative adversarial neural network:
